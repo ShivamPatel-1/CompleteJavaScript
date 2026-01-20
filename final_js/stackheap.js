@@ -1,0 +1,1 @@
+// Stack memory is used for primary data types and Heap is used for objects and reference types
